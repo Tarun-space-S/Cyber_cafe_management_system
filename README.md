@@ -25,9 +25,9 @@ http://localhost/app/
 
 ## Functionalities
 
+*Dashboard*: has the total live users and currently available computers.
 ![image](https://user-images.githubusercontent.com/89335295/210211327-26ce639f-acdf-4af9-9ac3-2857863e6ba3.png)
 
-*Dashboard*: has the total live users and currently available computers.
 *Computers*: has options to add new systems and delete them.
 ![image](https://user-images.githubusercontent.com/89335295/210211658-e87c5ce3-2f24-422e-bc3b-c04bfd170ff0.png)
 
