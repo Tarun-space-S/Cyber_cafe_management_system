@@ -1,5 +1,7 @@
 # Cyber_cafew_management_system
-html , css front end and SQL backend and php to integrate all.
+A web based appplication programmed to manage the cyber-cafe  user, admin database management system.
+The tools used are PHP , SQL , HTML and CSS.
+
 ## Introduction
 A web based appplication programmed to manage the cyber-cafe  user, admin database management system.
 The tools used are PHP , SQL , HTML and CSS.
