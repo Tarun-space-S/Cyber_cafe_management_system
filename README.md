@@ -1,9 +1,9 @@
 # Cyber_cafew_management_system
-A web based appplication programmed to manage the cyber-cafe  user, admin database management system.
+A web based application programmed to manage the cyber-cafe  user, admin database management system.
 The tools used are PHP , SQL , HTML and CSS.
 
 ## Introduction
-A web based appplication programmed to manage the cyber-cafe  user, admin database management system.
+A web based application programmed to manage the cyber-cafe  user, admin database management system.
 The tools used are PHP , SQL , HTML and CSS.
 
 ##Set-Up
